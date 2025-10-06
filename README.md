@@ -31,10 +31,10 @@ This project implements a **Deep Neural Network (DNN / MLP)** trained on the **C
 
 | Visualization | Description |
 |---------------|-------------|
-| ![accuracy](images/accuracy_curve.png) | Training & Validation Accuracy |
-| ![loss](images/loss_curve.png) | Training & Validation Loss |
-| ![confusion](images/confusion_matrix.png) | Confusion Matrix |
-| ![preds](images/sample_predictions.png) | Random 16-image predictions (✅ / ❌) |
+| ![accuracy](accuracy_curve.png) | Training & Validation Accuracy |
+| ![loss](loss_curve.png) | Training & Validation Loss |
+| ![confusion](confusion_matrix.png) | Confusion Matrix |
+| ![preds](sample_predictions.png) | Random 16-image predictions (✅ / ❌) |
 
 *(Replace the image filenames with your actual screenshots — e.g., inside `/images/` or `/assets/` folder.)*
 
